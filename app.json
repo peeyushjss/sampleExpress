@@ -1,8 +1,0 @@
-{
-    "name": "sampleexpress",
-    "description": "Sample Node JS App.",
-    "repository": "https://github.com/peeyushjss/sampleExpress",
-    "logo": "http://node-js-sample.heroku/node-js-getting-started",
-    "keywords": ["node", "express", "static"],
-    "image": "heroku/nodejs"
-}
